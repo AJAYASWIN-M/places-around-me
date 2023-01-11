@@ -1,0 +1,46 @@
+
+#home{
+    background-color: rgb(191, 183, 139);
+    border:1px solid black;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 1100px;
+    margin-top: 100px;
+
+}
+#temple{
+    background-color: rgb(1, 255, 255);
+    border:1px solid black;
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: 50px;
+    margin-right: 600px;
+   
+
+}
+#school{
+    background-color: rgb(1, 255, 255);
+    border:1px solid black;
+    text-align: center;
+    margin-left: 1400px;
+    margin-right: 250px;
+    margin-top: 250px;
+}
+#park{
+        background-color: rgb(1, 255, 255);
+        border:1px solid black;
+        text-align: center;
+        margin-top: 50px;
+        margin-left:700px;
+        margin-right:900px;
+        
+}
+#church{
+    background-color: rgb(1, 255, 255);
+    border:1px solid black;
+    text-align: center;
+    margin-right: 800px;
+    margin-left: 800px;
+    margin-top:250px;
+    
+}
